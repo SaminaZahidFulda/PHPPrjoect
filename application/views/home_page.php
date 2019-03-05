@@ -1,0 +1,1 @@
+<h1>Welcome Admin <?php echo $username;?> ....</h1>
